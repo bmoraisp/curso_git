@@ -6,3 +6,5 @@ curso git
 ### Episodio 01 - Instalacao Windows
 
 ### Episodio 02 - Instalacao MAC
+
+### Episodio 03 - Instacao Linux
