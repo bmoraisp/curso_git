@@ -1,8 +1,10 @@
 # Curso de Git da ASN
 curso git
 
-## Aula 01
+## Aula 01 - Instalacao
 
-### Episodio 01
+### Episodio 01 - Instalacao Windows
 
-### Episodio 02
+### Episodio 02 - Instalacao MAC
+
+### Episodio 03 - Instacao Linux
